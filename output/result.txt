@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-02-23 18:51:52,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
+2025-02-24 06:48:21,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
@@ -7,8 +7,8 @@ CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 CCTV-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6921&tk=abed47f08529
 CCTV-1,http://139.196.151.191/rtp/239.45.3.145:5140
 CCTV-1,http://139.129.231.228/rtp/239.21.1.120:5002
-CCTV-1,http://111.9.163.109
 CCTV-1,http://139.196.214.238/rtp/239.45.3.145:5140
+CCTV-1,http://111.9.163.109
 CCTV-1,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
 CCTV-1,http://mh0.asia
 CCTV-1,http://205.185.120.154
@@ -16,8 +16,8 @@ CCTV-2,https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 CCTV-2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0375&tk=abed47f08529
 CCTV-2,http://139.196.151.191/rtp/239.45.1.109:5140
 CCTV-2,http://139.129.231.228/rtp/239.21.1.151:5002
-CCTV-2,http://111.9.163.109
 CCTV-2,http://139.196.214.238/rtp/239.45.1.109:5140
+CCTV-2,http://111.9.163.109
 CCTV-2,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
 CCTV-2,http://mh0.asia
 CCTV-2,http://205.185.120.154
@@ -26,8 +26,8 @@ CCTV-3,https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 CCTV-3,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9590&tk=abed47f08529
 CCTV-3,http://139.196.151.191/rtp/239.45.1.68:5140
 CCTV-3,http://139.129.231.228/rtp/239.21.2.45:5002
-CCTV-3,http://111.9.163.109
 CCTV-3,http://139.196.214.238/rtp/239.45.1.68:5140
+CCTV-3,http://111.9.163.109
 CCTV-3,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
 CCTV-3,http://mh0.asia
 CCTV-3,http://205.185.120.154
@@ -36,8 +36,8 @@ CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 CCTV-4,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5694&tk=abed47f08529
 CCTV-4,http://139.196.151.191/rtp/239.45.0.2:5140
 CCTV-4,http://139.129.231.228/rtp/239.21.1.154:5002
-CCTV-4,http://111.9.163.109
 CCTV-4,http://139.196.214.238/rtp/239.45.0.2:5140
+CCTV-4,http://111.9.163.109
 CCTV-4,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
 CCTV-4,http://mh0.asia
 CCTV-4,http://205.185.120.154
@@ -46,8 +46,8 @@ CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6878&tk=abed47f08529
 CCTV-5,http://139.196.151.191/rtp/239.45.1.69:5140
 CCTV-5,http://139.129.231.228/rtp/239.21.2.46:5002
-CCTV-5,http://111.9.163.109
 CCTV-5,http://139.196.214.238/rtp/239.45.1.69:5140
+CCTV-5,http://111.9.163.109
 CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5,http://mh0.asia
 CCTV-5,http://205.185.120.154
@@ -64,8 +64,8 @@ CCTV-6,https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 CCTV-6,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7887&tk=abed47f08529
 CCTV-6,http://139.196.151.191/rtp/239.45.1.70:5140
 CCTV-6,http://139.129.231.228/rtp/239.21.2.47:5002
-CCTV-6,http://111.9.163.109
 CCTV-6,http://139.196.214.238/rtp/239.45.1.70:5140
+CCTV-6,http://111.9.163.109
 CCTV-6,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
 CCTV-6,http://mh0.asia
 CCTV-6,http://205.185.120.154
@@ -79,13 +79,13 @@ CCTV-7,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
 CCTV-7,http://mh0.asia
 CCTV-7,http://205.185.120.154
 CCTV-7,http://app.baiyels.com
-CCTV-7,http://iptv.0564.org
+CCTV-7,http://111.170.172.113
 CCTV-8,https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
 CCTV-8,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3828&tk=abed47f08529
 CCTV-8,http://139.196.151.191/rtp/239.45.1.71:5140
 CCTV-8,http://139.129.231.228/rtp/239.21.2.48:5002
-CCTV-8,http://111.9.163.109
 CCTV-8,http://139.196.214.238/rtp/239.45.1.71:5140
+CCTV-8,http://111.9.163.109
 CCTV-8,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
 CCTV-8,http://mh0.asia
 CCTV-8,http://205.185.120.154
@@ -99,7 +99,7 @@ CCTV-9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
 CCTV-9,http://mh0.asia
 CCTV-9,http://205.185.120.154
 CCTV-9,http://app.baiyels.com
-CCTV-9,http://iptv.0564.org
+CCTV-9,http://111.170.172.113
 CCTV-10,https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
 CCTV-10,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1222&tk=abed47f08529
 CCTV-10,http://139.196.151.191/rtp/239.45.3.8:5140
@@ -109,7 +109,7 @@ CCTV-10,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
 CCTV-10,http://mh0.asia
 CCTV-10,http://205.185.120.154
 CCTV-10,http://app.baiyels.com
-CCTV-10,http://iptv.0564.org
+CCTV-10,http://111.170.172.113
 CCTV-11,https://api.olelive.com/dis/live/CCTV11HD/hls.m3u8
 CCTV-11,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3394&tk=abed47f08529
 CCTV-11,http://139.196.151.191/rtp/239.45.1.196:5140
@@ -119,7 +119,7 @@ CCTV-11,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 CCTV-11,http://mh0.asia
 CCTV-11,http://205.185.120.154
 CCTV-11,http://app.baiyels.com
-CCTV-11,http://iptv.0564.org
+CCTV-11,http://111.170.172.113
 CCTV-12,https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
 CCTV-12,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9256&tk=abed47f08529
 CCTV-12,http://139.196.151.191/rtp/239.45.3.10:5140
@@ -138,8 +138,8 @@ CCTV-13,http://139.196.214.238/rtp/239.45.1.198:5140
 CCTV-13,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
 CCTV-13,http://205.185.120.154
 CCTV-13,http://app.baiyels.com
-CCTV-13,http://iptv.0564.org
 CCTV-13,http://111.170.172.113
+CCTV-13,http://iptv.0564.org
 CCTV-14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
 CCTV-14,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8715&tk=abed47f08529
 CCTV-14,http://139.196.151.191/rtp/239.45.3.23:5140
@@ -197,8 +197,8 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 广东卫视,http://app.baiyels.com
 广东卫视,http://iptv.0564.org
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7056&tk=abed47f08529
 浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
 浙江卫视,http://139.196.151.191/rtp/239.45.3.178:5140
@@ -227,6 +227,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 北京卫视,http://xxx.504900.xyz
 北京卫视,http://app.baiyels.com
 北京卫视,http://iptv.0564.org
+湖北卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=hubws
 湖北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8915&tk=abed47f08529
 湖北卫视,http://139.196.151.191/rtp/239.45.3.239:5140
 湖北卫视,http://139.129.231.228/rtp/239.21.1.163:5002
@@ -278,6 +279,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 东南卫视,http://xxx.504900.xyz
 东南卫视,http://app.baiyels.com
 东南卫视,http://iptv.0564.org
+甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
 甘肃卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7269&tk=abed47f08529
 甘肃卫视,http://139.196.151.191/rtp/239.45.1.234:5140
 甘肃卫视,http://139.129.231.228/rtp/239.21.2.22:5002
@@ -297,7 +299,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 海南卫视,http://139.196.151.191/rtp/239.45.1.81:5140
 海南卫视,http://139.129.231.228/rtp/239.21.2.14:5002
 海南卫视,http://139.196.214.238/rtp/239.45.1.81:5140
-河北卫视,http://hls.hsrtv.cn/live/hbws.m3u8
 河北卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0487&tk=abed47f08529
 河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493
 河北卫视,http://139.196.151.191/rtp/239.45.1.44:5140
@@ -323,6 +324,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 江苏卫视,http://205.185.120.154
 江苏卫视,http://app.baiyels.com
 江苏卫视,http://iptv.0564.org
+江西卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=jxws
 江西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2695&tk=abed47f08529
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
 江西卫视,http://139.196.151.191/rtp/239.45.1.122:5140
@@ -332,7 +334,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 江西卫视,http://205.185.120.154
 江西卫视,http://app.baiyels.com
 江西卫视,http://iptv.0564.org
-江西卫视,rtmp://local-live.jxtvcn.com.cn/live/tv_jxtv1
 辽宁卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7956&tk=abed47f08529
 辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
 辽宁卫视,http://139.196.151.191/rtp/239.45.1.123:5140
@@ -342,7 +343,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 辽宁卫视,http://205.185.120.154
 辽宁卫视,http://xxx.504900.xyz
 辽宁卫视,http://app.baiyels.com
-辽宁卫视,http://iptv.0564.org
+辽宁卫视,http://111.170.172.113
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 内蒙古卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9268&tk=abed47f08529
 内蒙古卫视,http://139.196.151.191/rtp/239.45.1.238:5140
@@ -361,7 +362,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 青海卫视,http://mh0.asia
 青海卫视,http://205.185.120.154
 青海卫视,http://app.baiyels.com
-青海卫视,http://iptv.0564.org
+青海卫视,http://111.170.172.113
 山东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9143&tk=abed47f08529
 山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
 山东卫视,http://139.196.151.191/rtp/239.45.3.238:5140
@@ -371,7 +372,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 山东卫视,http://205.185.120.154
 山东卫视,http://xxx.504900.xyz
 山东卫视,http://app.baiyels.com
-山东卫视,http://iptv.0564.org
+山东卫视,http://111.170.172.113
 山西卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9799&tk=abed47f08529
 山西卫视,http://139.196.151.191/rtp/239.45.1.229:5140
 山西卫视,http://139.129.231.228/rtp/239.21.1.33:5002
@@ -451,46 +452,33 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 深圳卫视,http://iptv.0564.org
 
 ☘️浙江频道,#genre#
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江,http://120.55.49.231
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,http://120.55.49.231
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
-浙江教育,http://120.55.49.231
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-浙江新闻,http://120.55.49.231
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849
-杭州综合,http://120.55.49.231
-杭州明珠,http://120.55.49.231
-杭州生活,http://120.55.49.231
-杭州影视,http://120.55.49.231
-杭州青少,http://120.55.49.231
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-之江纪录,http://120.55.49.231
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
-丽水新闻,http://120.55.49.231
-衢州公共,http://120.55.49.231
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-浙江民生休闲,http://120.55.49.231
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2869&tk=abed47f08529
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
@@ -503,8 +491,8 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
 ☘️北京频道,#genre#
 通州电视台,http://pull.dayuntongzhou.com/live/tztv.m3u8
@@ -529,12 +517,10 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 全纪实,http://139.196.214.238/rtp/239.45.3.135:5140
 动漫秀场,http://139.196.151.191/rtp/239.45.3.134:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
-动漫秀场,http://120.55.49.231
 哈哈炫动,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4902&tk=f6cc1e0a0e1a
 哈哈炫动,http://139.196.151.191/rtp/239.45.1.55:5140
 哈哈炫动,http://139.129.231.228/rtp/239.21.1.51:5002
 哈哈炫动,http://139.196.214.238/rtp/239.45.1.55:5140
-哈哈炫动,http://120.55.49.231
 嘉定电视台,http://139.196.151.191/rtp/239.45.3.185:5140
 嘉定电视台,http://139.196.214.238/rtp/239.45.3.185:5140
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
@@ -548,11 +534,9 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 法治天地,http://139.196.214.238/rtp/239.45.1.46:5140
 生活时尚,http://139.196.151.191/rtp/239.45.3.132:5140
 生活时尚,http://139.196.214.238/rtp/239.45.3.132:5140
-生活时尚,http://120.55.49.231
 第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9919&tk=abed47f08529
 第一财经,http://139.196.151.191/rtp/239.45.3.211:5140
 第一财经,http://139.196.214.238/rtp/239.45.3.211:5140
-第一财经,http://120.55.49.231
 纪实人文,http://139.196.151.191/rtp/239.45.3.212:5140
 纪实人文,http://139.129.231.228/rtp/239.21.1.195:5002
 纪实人文,http://139.196.214.238/rtp/239.45.3.212:5140
@@ -620,7 +604,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 南宁公共,https://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
 南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
-南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 南宁新闻综合,https://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
 南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
@@ -731,7 +714,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 山东体育,http://139.129.231.228/rtp/239.21.1.141:5002
 山东文旅,http://139.129.231.228/rtp/239.21.1.176:5002
 山东综艺,http://139.129.231.228/rtp/239.21.1.177:5002
-济南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 济南新闻综合,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 济南都市,http://139.129.231.228/rtp/239.21.1.63:5002
 济南生活,http://139.129.231.228/rtp/239.21.1.64:5002
@@ -770,7 +752,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 安徽国际,http://api2.52tb.xyz/info?id=586&token=20230405tndmhg
 合肥公共,http://api2.52tb.xyz/info?id=588&token=20230405tndmhg
 合肥新闻,http://api2.52tb.xyz/info?id=587&token=20230405tndmhg
-霍山综合,http://ahhs.chinashadt.com
 安徽影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0964&tk=2894ccdba8fc
 六安新闻综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8?zanhd
 六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
@@ -792,13 +773,21 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
 延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
 梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8?zjild
+桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
-东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
+东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
 ☘️内蒙古频道,#genre#
 
@@ -837,36 +826,35 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 ☘️黑龙江频道,#genre#
 黑龙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0219&tk=e640d0a1bf70
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨都市资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
-翡翠台,http://fm1077.serv00.net/Smart.php?id=jade_twn
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 凤凰中文,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
 凤凰中文,http://xubo0712.asuscomm.cn
-凤凰中文,http://120.55.49.231
 凤凰资讯,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
-凤凰资讯,http://120.55.49.231
 凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来育乐,rtmp://220.130.201.73/sat/tv701
-J2,http://fm1077.serv00.net/Smart.php?id=j2_twn
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tvfree.sbs
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9639&tk=e640d0a1bf70
 东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
@@ -879,6 +867,7 @@ CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4654&tk=23a9aca1f79f
 经典电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4354&tk=e503191f8e20
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 东森电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9901&tk=e640d0a1bf70
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9639&tk=e640d0a1bf70
 
@@ -889,8 +878,8 @@ CCTV-5,https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6878&tk=abed47f08529
 CCTV-5,http://139.196.151.191/rtp/239.45.1.69:5140
 CCTV-5,http://139.129.231.228/rtp/239.21.2.46:5002
-CCTV-5,http://111.9.163.109
 CCTV-5,http://139.196.214.238/rtp/239.45.1.69:5140
+CCTV-5,http://111.9.163.109
 CCTV-5,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
 CCTV-5,http://mh0.asia
 CCTV-5,http://205.185.120.154
@@ -903,6 +892,7 @@ CCTV-5+,http://mh0.asia
 CCTV-5+,http://205.185.120.154
 CCTV-5+,http://app.baiyels.com
 CCTV-5+,http://iptv.0564.org
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport
 纬来体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
@@ -927,12 +917,10 @@ CCTV-5+,http://iptv.0564.org
 足球频道,http://139.129.231.228/rtp/239.21.1.162:5002
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3624&tk=23a9aca1f79f
 快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8968&tk=e640d0a1bf70
-快乐垂钓,http://120.55.49.231
 
 🪁动画频道,#genre#
 动漫秀场,http://139.196.151.191/rtp/239.45.3.134:5140
 动漫秀场,http://139.196.214.238/rtp/239.45.3.134:5140
-动漫秀场,http://120.55.49.231
 青春动漫,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1055&tk=23a9aca1f79f
 宝宝动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6379&tk=23a9aca1f79f
 优漫卡通,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5747&tk=abed47f08529
@@ -943,8 +931,8 @@ CCTV-5+,http://iptv.0564.org
 金鹰卡通,http://139.196.214.238/rtp/239.45.3.118:5140
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1713&tk=e640d0a1bf70
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849
 中华小当家,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8291&tk=e640d0a1bf70
 猫和老鼠,http://120.77.28.4
@@ -954,7 +942,6 @@ CCTV-5+,http://iptv.0564.org
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
 游戏风云,http://139.196.151.191/rtp/239.45.3.131:5140
 游戏风云,http://139.196.214.238/rtp/239.45.3.131:5140
-游戏风云,http://120.55.49.231
 海看电竞,http://139.129.231.228/rtp/239.21.1.135:5002
 电竞天堂,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=23a9aca1f79f
 
